@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  enemy.cpp
-  Win32Project9.vcxproj -> C:\Users\student\Desktop\シューティング\08_髙橋勝太\Debug\Sample2.exe
-  Win32Project9.vcxproj -> C:\Users\student\Desktop\シューティング\08_髙橋勝太\Debug\Sample2.pdb (Full PDB)
