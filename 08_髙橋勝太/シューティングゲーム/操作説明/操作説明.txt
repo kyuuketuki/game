@@ -1,0 +1,4 @@
+WASD			移動
+SPACEキー		弾を打つ
+
+RETURNキー		画面移動
