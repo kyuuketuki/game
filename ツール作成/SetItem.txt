@@ -1,0 +1,1 @@
+SetItem(D3DXVECTOR3(-164.7, 0.0f, 214.8), D3DXVECTOR3(0.0f, 0, 0.0f), 0);
